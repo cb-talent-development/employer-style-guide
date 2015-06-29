@@ -1,0 +1,17 @@
+{
+  "name": "employer-style-guide",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "requirejs": "~2.1.18",
+    "angular-scroll": "~0.7.1",
+    "employer-style-base": "git@github.com:cb-talent-development/employer-style-base#master",
+    "employer-style-grid": "git@github.com:cb-talent-development/employer-style-grid#master",
+    "employer-style-widgets": "git@github.com:cb-talent-development/employer-style-widgets#master"
+  }
+}
